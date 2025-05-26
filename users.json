@@ -496,5 +496,16 @@
   "linkedin": "jaswinderbhui",
   "website": "",
   "avatar": "/avatars/JaswinderPic2025.jpg"
+},
+{
+  "name": "Milo Fels",
+  "certs": ["awstronaut"],
+  "city": "Frankfurt",
+  "country": "Germany",
+  "date": "2023-03-18",
+  "bio": "productizing the services industry",
+  "linkedin": "milo-fels",
+  "website": "https://architechture.dev",
+  "avatar": "/avatars/MiloFels.jpeg"
 }
 ]
